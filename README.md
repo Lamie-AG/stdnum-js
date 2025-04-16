@@ -218,25 +218,14 @@ How you can help! This library currently support about half the countries in the
 | South Africa           | ZA   | TIN             | Person/Company     | TIN (South African Tax Identification Number).                                                                                         |
 | South Africa           | ZA   | VAT             | Company            | VAT (South African Value Added Tax Number).                                                                                            |
 
-### Examples
 
-TODO -- Usage examples
 
 ### Credits
 
-Thanks to [python-stdnum](https://arthurdejong.org/python-stdnum/) for providing the inspiration and
-many of the checksum algorithm sources
+Thanks to [python-stdnum](https://arthurdejong.org/python-stdnum/) and [koblas/stdnum-js](https://github.com/koblas/stdnum-js) for providing the first verison.
 
 ### References
 
 https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/
 https://wiki.scn.sap.com/wiki/display/CRM/Country+Tax+Category+check
 
-### Release Notes
-
-This project is now using https://github.com/semantic-release/semantic-release to manage the
-release process. Commit messages should use the format specified to handle the major/minor/patch
-versioning information.
-
-This is based on the angular commit message format
-https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format
